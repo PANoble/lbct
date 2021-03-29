@@ -18,7 +18,7 @@ Pour lancer les tests
 
 # La demande ressemblait beaucoup à un système de chat ainsi j'ai pris l'initiative d'en faire un vrai en websocket.
 
-Ne sachant pas votre langage de prédilection j'ai rédigé le readme en français mais j'ai plutôt l'habitude de tout écrire en anglais.
+Ne sachant pas votre langue de prédilection j'ai rédigé le readme en français mais j'ai plutôt l'habitude de tout écrire en anglais.
 
 J'ai pris une journée (équivalent journée de travail donc 8h d'affilées à peu près) pour effectuer ce projet.
 
@@ -30,6 +30,7 @@ Utiliser isPublic et du routing pour faire une page par utilisateur en cliquant 
 J'ai fais un POC sur graphql-ws il y a deux semaines et j'avais dans l'idée de faire une API graph pour la partie utilisateur et utiliser le websocket pour la diffusions des messages mais je me suis contenté d'un serveur ws standard comme la partie serveur n'était pas la priorité
 Pourquoi pas des notifications avec un service worker
 Ajouter des alias (je me suis fais la réflexion en consommant mes composant du dossier commons)
+Réécrire en TS (écris en JS pour aller plus vite comme c'est un petit projet)
 
 En espérant que ce projet saura satisfaire vos attentes.
 
