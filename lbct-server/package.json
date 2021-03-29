@@ -1,0 +1,13 @@
+{
+  "name": "lbct-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "PA Noble",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^7.4.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
