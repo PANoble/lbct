@@ -16,6 +16,8 @@ Pour lancer les tests
 
 `yarn test`
 
+N'hésitez pas à ouvrir plusieurs pages en navigation privée pour tester le chat avec plusieurs utilisateurs.
+
 # La demande ressemblait beaucoup à un système de chat ainsi j'ai pris l'initiative d'en faire un vrai en websocket.
 
 Ne sachant pas votre langue de prédilection j'ai rédigé le readme en français mais j'ai plutôt l'habitude de tout écrire en anglais.
@@ -31,6 +33,7 @@ J'ai fais un POC sur graphql-ws il y a deux semaines et j'avais dans l'idée de 
 Pourquoi pas des notifications avec un service worker <br />
 Ajouter des alias (je me suis fais la réflexion en consommant mes composant du dossier commons) <br />
 Réécrire en TS (écris en JS pour aller plus vite comme c'est un petit projet) <br />
+Ajouter plus de tests <br />
 
 En espérant que ce projet saura satisfaire vos attentes. <br />
 
